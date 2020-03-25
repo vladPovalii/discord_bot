@@ -1,0 +1,17 @@
+*~
+*.swp
+*.xlsx#
+tmp/
+npm-debug.log
+.DS_Store
+yarn-error.log
+constants.js
+
+.build/*
+.next
+.vscode/
+node_modules/
+.coverage
+.env
+.next
+.idea/*
