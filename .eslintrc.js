@@ -1,11 +1,4 @@
 module.exports = {
-    "parserOptions": {
-        "ecmaVersion": 2017
-    },
-    env: {
-        es6: true,
-        node: true
-    },
     extends: ['eslint:recommended', 'prettier'], // extending recommended config and config derived from eslint-config-prettier
     plugins: ['prettier'], // activating esling-plugin-prettier (--fix stuff)
     rules: {
